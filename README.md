@@ -21,4 +21,4 @@ Disclaimer !
 - ketiga virus buatan sudah berada dalam list database sehingga virus dapat dideteksi sebagai file atau proses yang mencurigakan
 - jangan asal eksekusi virus jika belum memahami betul instruksi
 - virus yang tidak membahayakan ini harus tetap dimatikan (agar tidak memberatkan proses) dengan cara di kill dengan menu kill kemudian di hapus
-- jangan langsung menghapus file sebelum di kill
+- jangan langsung menghapus file sebelum di kill atau virus tak akan sepenuhnya hilang atau mati
